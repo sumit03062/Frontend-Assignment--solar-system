@@ -33,7 +33,7 @@ Realistic: Orbital periods (e.g., Mercury: 0.241 years) scaled 1000x.
 
 
 
-Setup
+Setups to run
 
 Download: Save index.html from the project repository.
 Host:Use any web server  or an IDE extension like VS Code’s Live Server.
